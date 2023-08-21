@@ -1,0 +1,47 @@
+.footer {
+background-color: green ;
+}
+
+
+li {
+    color: white;
+}
+.address {
+    color: white;
+   
+}
+.address p {
+    line-height: 38px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.footer h4 {
+    padding-bottom: 15px;
+    color: white;
+}
+
+.iconsdiv img {
+  margin-left: 10px ;
+}
+.iconsdiv h4 {
+    margin-left: 10px ;
+  }
+  .center {
+    display: flex;
+    align-items: center;
+  }
+
+ .string {
+    padding: 40px 0 0 520px;
+    color: white;
+ }
+
+.Logo {
+    width: 167px;
+    height: 85px;
+    padding: 10px 0;
+    
+}

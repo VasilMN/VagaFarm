@@ -1,0 +1,21 @@
+.header {
+    background-color: white;
+    padding: 10px 0px;
+
+
+ 
+}
+.container {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+.logo {
+    width: 115px;
+    height: 58px;
+    padding: 10px  0 ;
+    cursor: pointer;
+}
